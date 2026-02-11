@@ -4,13 +4,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/55947405/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [2487-optimal-partition-of-string](https://github.com/55947405/Leetcode-questions/tree/master/2487-optimal-partition-of-string) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/55947405/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [2487-optimal-partition-of-string](https://github.com/55947405/Leetcode-questions/tree/master/2487-optimal-partition-of-string) |
 ## Greedy
 |  |
 | ------- |
 | [2487-optimal-partition-of-string](https://github.com/55947405/Leetcode-questions/tree/master/2487-optimal-partition-of-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/55947405/Leetcode-questions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

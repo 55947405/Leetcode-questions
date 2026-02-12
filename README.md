@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/55947405/Leetcode-questions/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/55947405/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [2487-optimal-partition-of-string](https://github.com/55947405/Leetcode-questions/tree/master/2487-optimal-partition-of-string) |
 ## Greedy
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/55947405/Leetcode-questions/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/55947405/Leetcode-questions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->

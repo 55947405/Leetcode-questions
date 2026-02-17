@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/55947405/Leetcode-questions/tree/master/0071-simplify-path) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/55947405/Leetcode-questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

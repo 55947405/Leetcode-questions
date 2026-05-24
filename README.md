@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/55947405/Leetcode-questions/tree/master/0071-simplify-path) |
+| [0739-daily-temperatures](https://github.com/55947405/Leetcode-questions/tree/master/0739-daily-temperatures) |
 ## Database
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/55947405/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0739-daily-temperatures](https://github.com/55947405/Leetcode-questions/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/55947405/Leetcode-questions/tree/master/0100-same-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/55947405/Leetcode-questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

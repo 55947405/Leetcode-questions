@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/55947405/Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/55947405/Leetcode-questions/tree/master/0268-missing-number) |
 | [2487-optimal-partition-of-string](https://github.com/55947405/Leetcode-questions/tree/master/2487-optimal-partition-of-string) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/55947405/Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/55947405/Leetcode-questions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/55947405/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Stack
 |  |
@@ -41,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/55947405/Leetcode-questions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/55947405/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0739-daily-temperatures](https://github.com/55947405/Leetcode-questions/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/55947405/Leetcode-questions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/55947405/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
@@ -75,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/55947405/Leetcode-questions/tree/master/0739-daily-temperatures) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/55947405/Leetcode-questions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/55947405/Leetcode-questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

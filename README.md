@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/55947405/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [2487-optimal-partition-of-string](https://github.com/55947405/Leetcode-questions/tree/master/2487-optimal-partition-of-string) |
 ## Sorting
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/55947405/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/55947405/Leetcode-questions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/55947405/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/55947405/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -110,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/55947405/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/55947405/Leetcode-questions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

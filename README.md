@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/55947405/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/55947405/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/55947405/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/55947405/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/55947405/Leetcode-questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/55947405/Leetcode-questions/tree/master/0191-number-of-1-bits) |
@@ -125,5 +127,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/55947405/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/55947405/Leetcode-questions/tree/master/0141-linked-list-cycle) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/55947405/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/55947405/Leetcode-questions/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/55947405/Leetcode-questions/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/55947405/Leetcode-questions/tree/master/0739-daily-temperatures) |
 ## Database
 |  |
@@ -124,13 +125,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/55947405/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/55947405/Leetcode-questions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/55947405/Leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/55947405/Leetcode-questions/tree/master/0143-reorder-list) |
 ## Linked List
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/55947405/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/55947405/Leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/55947405/Leetcode-questions/tree/master/0143-reorder-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/55947405/Leetcode-questions/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/55947405/Leetcode-questions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->

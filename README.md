@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/55947405/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/55947405/Leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/55947405/Leetcode-questions/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/55947405/Leetcode-questions/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/55947405/Leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0739-daily-temperatures](https://github.com/55947405/Leetcode-questions/tree/master/0739-daily-temperatures) |
 ## Binary Search
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/55947405/Leetcode-questions/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/55947405/Leetcode-questions/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/55947405/Leetcode-questions/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/55947405/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/55947405/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/55947405/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/55947405/Leetcode-questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/55947405/Leetcode-questions/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/55947405/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/55947405/Leetcode-questions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/55947405/Leetcode-questions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

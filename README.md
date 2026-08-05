@@ -81,21 +81,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/55947405/Leetcode-questions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/55947405/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/55947405/Leetcode-questions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/55947405/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/55947405/Leetcode-questions/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/55947405/Leetcode-questions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/55947405/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/55947405/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/55947405/Leetcode-questions/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/55947405/Leetcode-questions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/55947405/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
